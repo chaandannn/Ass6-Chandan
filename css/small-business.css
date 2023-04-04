@@ -1,0 +1,12 @@
+body {
+  padding-top: 56px;
+  color: #333;
+  background-color: #f8f9fa;
+}
+.navbar {
+  background-color: blue;
+  color: white;
+}
+.card-body {
+  background-color: rgb(132,184,233);
+}
